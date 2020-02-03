@@ -3,4 +3,5 @@ Git is free software
 Awesome
 GPL
 dev branch
-git & and AND ?? svn
+git AND svn
+merge no ff
