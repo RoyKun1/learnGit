@@ -3,3 +3,4 @@ Git is free software
 Awesome
 GPL
 dev branch
+git & svn
